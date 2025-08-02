@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img width="1295" height="344" alt="image" src="https://github.com/user-attachments/assets/56153c9f-4575-48e9-9d49-3477ee495f89" />
 <!--
 **NguyenDangKimNgan/NguyenDangKimNgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
